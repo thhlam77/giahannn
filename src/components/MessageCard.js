@@ -186,7 +186,7 @@ const messages = [
     "Mình cũng ko có quyền j bắt e thay đổi, nhưng hi vọng e sẽ tot hon mỗi ngày :<",
     "Nchuyen với e kích thích tuyến nước mắt lắm...chà, lần đầu khóc vì ng mình yêu đó...",
     "Thui đừng quan tâm điều đó, mình yêu em nhiều lắm đừng nghĩ bậy bạ gì nua nhaaa",
-    "Bbi ngủ ngoann, r mọi chuyện cũng sẽ ổn mà, mình cu`ng nhau get over duoc maa &#x2764;&#xFE0F;&#x200D;&#x1FA79;
+    "Bbi ngủ ngoann, r mọi chuyện cũng sẽ ổn mà, mình cu`ng nhau get over duoc maa 💖;
 "
 ];
 
